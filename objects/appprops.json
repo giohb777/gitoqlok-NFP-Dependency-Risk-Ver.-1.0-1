@@ -1,0 +1,22 @@
+[
+  {
+    "qProperty": {
+      "qInfo": {
+        "qId": "CqDcgQ",
+        "qType": "appprops"
+      },
+      "qMetaDef": {},
+      "sheetTitleBgColor": "#4477aa",
+      "sheetTitleGradientColor": "none",
+      "sheetTitleColor": "#ffffff",
+      "sheetLogoThumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/5136a3d6-30a6-4dad-a42f-ef36360b1918/Powered By.jpg"
+        }
+      },
+      "sheetLogoPosition": "right",
+      "rtl": false
+    },
+    "qChildren": []
+  }
+]

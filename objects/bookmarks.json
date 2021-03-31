@@ -1,0 +1,48 @@
+[
+  {
+    "qInfo": {
+      "qId": "TPptDTq",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "EMC (Main Business Units)",
+      "description": ""
+    },
+    "sheetId": "535aeef3-312d-4725-a7a1-c203e692fb85",
+    "selectionFields": "Business Unit",
+    "creationDate": "2017-04-21T12:35:55.776Z",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "Business Unit",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 42846.64994212963,
+        "qVariableItems": [],
+        "qPatches": []
+      }
+    }
+  }
+]
